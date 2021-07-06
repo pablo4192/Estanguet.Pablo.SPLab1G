@@ -35,9 +35,21 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="LinkedList.h" />
+		<Unit filename="informes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="informes.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="parcial2_laboratorio1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parcial2_laboratorio1.h" />
+		<Unit filename="parser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parser.h" />
 		<Unit filename="utn.c">
 			<Option compilerVar="CC" />
 		</Unit>

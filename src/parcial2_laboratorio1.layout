@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4067" topLine="120" />
+		</Cursor>
+	</File>
+	<File name="parcial2_laboratorio1.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4271" topLine="57" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="45" />
+			<Collapse line="131" />
+			<Collapse line="144" />
+			<Collapse line="157" />
+			<Collapse line="170" />
+			<Collapse line="183" />
+			<Collapse line="197" />
+			<Collapse line="228" />
+		</Folding>
+	</File>
+	<File name="LinkedList.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21308" topLine="474" />
+		</Cursor>
+		<Folding>
+			<Collapse line="447" />
+			<Collapse line="478" />
+			<Collapse line="524" />
+			<Collapse line="563" />
+			<Collapse line="596" />
+		</Folding>
+	</File>
+	<File name="informes.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3209" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="31" />
+			<Collapse line="49" />
+			<Collapse line="70" />
+			<Collapse line="99" />
+		</Folding>
+	</File>
+	<File name="LinkedList.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2558" topLine="20" />
+		</Cursor>
+	</File>
+	<File name="parser.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1811" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="36" />
+			<Collapse line="72" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
