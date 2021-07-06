@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1625528323 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"parcial2_laboratorio1.h"
+	"parser.h"
+	"informes.h"
+	"LinkedList.h"
+	"utn.h"
+
+1625525455 c:\users\kiano\desktop\programacion\parcial2_laboratorio1\linkedlist.h
+
+1625006060 c:\users\kiano\desktop\programacion\parcial2_laboratorio1\utn.h
+
+1625006060 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1625527754 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parcial2_laboratorio1.h"
+
+1625529749 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"parcial2_laboratorio1.h"
+	"parser.h"
+	"informes.h"
+	"LinkedList.h"
+	"utn.h"
+
+1625529749 c:\users\kiano\desktop\programacion\parcial2_laboratorio1\parcial2_laboratorio1.h
+	"LinkedList.h"
+
+1625529749 c:\users\kiano\desktop\programacion\parcial2_laboratorio1\parser.h
+
+1625529749 c:\users\kiano\desktop\programacion\parcial2_laboratorio1\informes.h
+
+1625524934 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\parcial2_laboratorio1.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"parcial2_laboratorio1.h"
+	"parser.h"
+	"informes.h"
+	"LinkedList.h"
+	"utn.h"
+
+1625525710 source:c:\users\kiano\desktop\programacion\parcial2_laboratorio1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"parcial2_laboratorio1.h"
+	"parser.h"
+	"informes.h"
+	"LinkedList.h"
+	"utn.h"
+
